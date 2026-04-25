@@ -40,7 +40,7 @@
   { "id": "carroheno", "title": "La carreta de heno", "author": "John Constable", "year": 1821, "img": "/obras/carroheno.jpg" },
   { "id": "libertadpueblo", "title": "La Libertad guiando al pueblo", "author": "Eugène Delacroix", "year": 1830, "img": "/obras/libertadpueblo.jpg" },
   { "id": "temerario", "title": "El Temerario remolcado", "author": "J. M. W. Turner", "year": 1839, "img": "/obras/temerario.jpg" },
-  { "id": "picapedreros", "title": "Los picapedreros", "author": "Gustave Courbet", "year": 1849, "img": "/obras/temerario.jpg" },
+  { "id": "picapedreros", "title": "Los picapedreros", "author": "Gustave Courbet", "year": 1849, "img": "/obras/picapedreros.jpg" },
   { "id": "washingtondelaware", "title": "Washington cruzando el Delaware", "author": "Emanuel Leutze", "year": 1851, "img": "/obras/washingtondelaware.jpg" },
   { "id": "ofelia", "title": "Ofelia", "author": "John Everett Millais", "year": 1852, "img": "/obras/ofelia.jpg" },
   { "id": "feriacaballos", "title": "La feria de caballos", "author": "Rosa Bonheur", "year": 1855, "img": "/obras/feriacaballos.jpg" },
@@ -99,5 +99,5 @@
   { "id": "graciabarrios", "title": "Sin Título (América)", "author": "Gracia Barrios", "year": 1971, "img": "/obras/graciabarrios.jpg"},
   { "id": "pesebre", "title": "Pesebre n°6", "author": "Paula Solís Burgos", "year": 2017, "img": "/obras/pesebre.jpg"},
   { "id": "garcialorca", "title": "Her New Suit", "author": "Garcia Lorca", "year": 2024, "img": "/obras/garcialorca.jpg"},
-  { "id": "pabloferrer", "title": "Still Life N°2", "author": "Pablo Ferrer", "year": 2002, "img": "/obras/garcialorca.jpg"}
+  { "id": "pabloferrer", "title": "Still Life N°2", "author": "Pablo Ferrer", "year": 2002, "img": "/obras/pabloferrer.jpg"}
 ]
